@@ -1,1 +1,1 @@
-This repository will house the Android app app versions of the OB Wheel web app (https://obwheel.cc)
+This repository contains the Android app app versions of the OB Wheel web app (https://obwheel.cc)
